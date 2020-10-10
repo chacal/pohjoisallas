@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "module": "commonjs",
+    "noEmitOnError": true,
+    "noImplicitAny": true,
+    "declaration": true,
+    "outDir": "built",
+    "inlineSourceMap": true
+  },
+  "include": [
+    "src/**/*",
+    "test/**/*"
+  ]
+}
